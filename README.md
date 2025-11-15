@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # To-Do List Application
 
 This is a simple to-do list application built with React and TypeScript. It allows users to add, remove, and mark tasks as completed.
@@ -63,3 +64,6 @@ If you would like to contribute to this project, please fork the repository and 
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
+=======
+# To-do-List-App
+>>>>>>> 114a242a00e549879e78046f8b04fb0dff1870fc
