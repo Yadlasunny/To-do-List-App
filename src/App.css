@@ -12,7 +12,8 @@ body, .container {
     box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
 h1 {
-    color: #222;
+    color: #007bff; /* Change to your preferred color */
+    letter-spacing: 2px;
 }
 input[type="text"], input[type="date"] {
     padding: 8px;
